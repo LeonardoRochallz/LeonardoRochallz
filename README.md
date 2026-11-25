@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo
 
-<!--
-**LeonardoRochallz/LeonardoRochallz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software formado, trabalhando com PCP na indústriae construindo minha carreira em **desenvolvimento backend com Java**.
 
-Here are some ideas to get you started:
+Aprendo construindo: cada conceito novo vira um experimento ou projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em construção agora
+- **world-lab** — simulação de sociedades artificiais que evolui junto com meus estudos
+- **java-lab** — exercícios e mini-experimentos, organizados por fase
+
+## Interesses
+Backend · algoritmos · simulações · sistemas complexos · história e economia
+## Contato[LinkedIn](https://www.linkedin.com/in/leonardo-rocha-063326391/)
